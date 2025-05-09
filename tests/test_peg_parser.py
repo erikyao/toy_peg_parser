@@ -1,6 +1,6 @@
 import pytest
 
-from src.peg_token import Token as Token, TokenType as TokenType
+from src.peg_token import Token, TokenType
 from src.peg_parser import ToyPEGParser
 
 def test_program():
